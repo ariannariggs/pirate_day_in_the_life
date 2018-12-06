@@ -1,0 +1,66 @@
+html, aside, footer, header, hgroup, body, nav, section {
+    display: block;
+}
+h1, h2, h3, h4 {
+  text-align: center;
+  font-family: Calligraffitti;
+}
+h1{
+  font-size:45px;
+}
+h2{
+  font-size: 40px;
+}
+h3{
+  font-size:30px;
+}
+h4, .malcom {
+  font-family: Reenie Beanie;
+  font-size: 33px;
+  font-weight: italic;
+
+}
+header {
+  text-align: center;
+  position: relative;
+  background-color: #808000;
+  top: -5px;
+  left: 0;
+  right: 0;
+  padding: -10px;
+}
+img {
+  position: relative;
+  left: auto;
+vertical-align: middle;
+}
+nav ul {
+    list-style-type: none;
+    display: inline-block;
+    font-size: 23px;
+    -webkit-margin-before: 0px;
+    -webkit-margin-after: 0px;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 0px;
+}
+nav ul li {
+    display: inline-block;
+    padding: 10px;
+
+}
+body {
+  font-family: Calligraffitti;
+  font-size: 20px;
+  font-weight:bold;
+}
+
+#nope {
+  text-decoration: line-through;
+}
+#stop {
+  text-decoration: line-through;
+}
+#dont {
+  text-decoration: line-through;
+}
